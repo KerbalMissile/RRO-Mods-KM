@@ -22,7 +22,7 @@ namespace TimeWarpMod
 
         public string Version
         {
-            get { return "0.2.0"; }
+            get { return "1.0.0"; }
         }
 
         public void OnLoad(IModContext context)
