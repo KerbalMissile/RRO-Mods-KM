@@ -1,0 +1,7 @@
+{
+  "Id": "TimeWarpMod",
+  "Name": "Time Warp Mod",
+  "EntryDll": "TimeWarpMod.dll",
+  "Version": "1.0.0",
+  "Dependencies": []
+}
