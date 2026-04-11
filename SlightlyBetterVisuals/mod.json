@@ -1,0 +1,7 @@
+{
+  "Id": "SlightlyBetterVisuals",
+  "Name": "(Slightly) Better Visuals",
+  "EntryDll": "SlightlyBetterVisuals.dll",
+  "Version": "1.0.0",
+  "Dependencies": []
+}
